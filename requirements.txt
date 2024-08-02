@@ -2,4 +2,4 @@ nltk
 scikit-learn
 pandas
 plotly
-
+streamlit
